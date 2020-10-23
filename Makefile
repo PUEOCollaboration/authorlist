@@ -20,6 +20,6 @@ index.html: output/pueo_authors.html
 	@echo "<!DOCTYPE html><html><head><title>PUEO Author List</title></head> <body><h1 align='center'>PUEO Author List</h1><hr/>" > $@
 	@cat $^ >> $@ 
 	@echo "</body></html>" >> $@
-	@echo "Please considering committing/pushing your index.html if it differs from https://pueoneutrino.github.io/authorlist" 
+	@echo "Please considering committing/pushing your index.html if it differs from https://pueocollaboration.github.io/authorlist" 
 	
 
