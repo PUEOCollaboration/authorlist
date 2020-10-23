@@ -24,9 +24,12 @@ def tex_escape(string):
   return string.replace("&","\&")
 
 def html_escape(string):
+    escapes = [ ("&","&amp;"), ("\~n", "&ntilde;")]
 
-  return string.replace("&","&amp;") 
-
+    escaped = string; 
+    for escape in escapes: 
+        escaped = escaped.replace(escape[0],escape[1])
+    return escaped
 
 
 
@@ -137,7 +140,7 @@ for author in authors:
 
   if not first: 
     f_authors_html.write(", \n"); 
-  f_authors_html.write(author[0]); 
+  f_authors_html.write(html_escape(author[0])); 
 
   f_authors_html.write("<sup>"); 
   first_aff = True
