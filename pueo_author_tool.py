@@ -20,11 +20,15 @@ if len(sys.argv) > 2:
 
 ## may need to do more here! 
 def tex_escape(string): 
+  escapes = ( ("&","\&"), ("ı́","\\'i") )
+  escaped = string
+  for escape in escapes:
+      escaped = escaped.replace(escape[0],escape[1])
 
-  return string.replace("&","\&")
+  return escaped
 
 def html_escape(string):
-    escapes = [ ("&","&amp;"), ("\~n", "&ntilde;")]
+    escapes = ( ("&","&amp;"), ("\~n", "&ntilde;") )
 
     escaped = string; 
     for escape in escapes: 
