@@ -339,13 +339,17 @@ for author in authors:
   for aff in author[1]:
     if not first_aff:
       f_icrc_authors.write("\\textsuperscript{,}"); 
-    if institute_numbers[aff] > num_institutes: 
-      f_icrc_authors.write("\\footnote[%d]{%s\label{inst%d}}" % (institute_numbers[aff], institutes[aff][0], institute_numbers[aff]))
-      num_institutes+=1 
-    else:
-      f_icrc_authors.write("\\textsuperscript{%d}" % (institute_numbers[aff]) ); 
+    f_icrc_authors.write("\\textsuperscript{%d}" % (institute_numbers[aff]) ); 
     first_aff = False
   first = False
+f_icrc_authors.write("\n\\\\\n\\noindent\n"); 
+first = True
+for i in range(len(sorted_institutes)): 
+  if not first: 
+    f_icrc_authors.write(",\n") 
+  f_icrc_authors.write("$^{%d}$%s"%( i+1, tex_escape(institutes[sorted_institutes[i]][1]))) 
+  first = False 
+
 
 f_icrc_authors.close()
 
