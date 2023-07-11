@@ -73,10 +73,13 @@ lineno = 0
 
 authors = [] 
 sorted_institutes = [] 
+sorted_short_institutes = [] 
 institute_numbers = {}
+short_institute_numbers = {}
 
 letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"; 
 institute_letters = {}
+short_institute_letters = {}
 
 
 
@@ -94,6 +97,7 @@ for line in fauth.readlines():
 
   author = tokens[0].strip()
   affiliations = []
+  short_affiliations = []
 
   for t in tokens[1:]: 
     aff = t.strip() 
@@ -106,7 +110,16 @@ for line in fauth.readlines():
         institute_letters[aff] = letters[len(sorted_institutes)-1]
       affiliations.append(aff) 
 
-  authors.append((author,affiliations)) 
+      if institutes[aff][1] != "":
+          if aff not in sorted_short_institutes: 
+              sorted_short_institutes.append(aff)
+              short_institute_numbers[aff] = len(sorted_short_institutes)
+              short_institute_letters[aff] = letters[len(sorted_short_institutes)-1]
+          short_affiliations.append(aff)
+
+
+
+  authors.append((author,affiliations,short_affiliations)) 
 
 
 
@@ -336,18 +349,18 @@ for author in authors:
   f_icrc_authors.write(name); 
 
   first_aff = True
-  for aff in author[1]:
+  for aff in author[2]:
     if not first_aff:
       f_icrc_authors.write("\\textsuperscript{,}"); 
-    f_icrc_authors.write("\\textsuperscript{%d}" % (institute_numbers[aff]) ); 
+    f_icrc_authors.write("\\textsuperscript{%d}" % (short_institute_numbers[aff]) ); 
     first_aff = False
   first = False
 f_icrc_authors.write("\n\\\\\n\\noindent\n"); 
 first = True
-for i in range(len(sorted_institutes)): 
+for i in range(len(sorted_short_institutes)): 
   if not first: 
     f_icrc_authors.write(",\n") 
-  f_icrc_authors.write("$^{%d}$%s"%( i+1, tex_escape(institutes[sorted_institutes[i]][1]))) 
+  f_icrc_authors.write("$^{%d}$%s"%( i+1, tex_escape(institutes[sorted_short_institutes[i]][1]))) 
   first = False 
 
 
