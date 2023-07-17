@@ -31,6 +31,7 @@ Output is generated in several formats:
   - `pueo_sissa_authors.tex` for use with sissa journals (JCAP/JINST/etc.) 
   - `pueo_authors.html` for web display, this is used to generate an index.html that we can use for gh-pages (you should commit this if it changed!) 
   - `pueo_authors.txt` for text
+  - `pueoauthors.csv` for a general use csv file (used to generate an xml file using ICRC's submission tool). Entries are colon-separated and of the form `First: Last: Affiliation`
 
 TODO:
   - `authors.xml` format for arxiv/inspirehep
