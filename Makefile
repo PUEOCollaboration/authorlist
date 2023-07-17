@@ -17,8 +17,9 @@ output:
 	@mkdir -p $@
 
 index.html: output/pueo_authors.html 
-	@echo "<!DOCTYPE html><html><head><title>PUEO Author List</title></head> <body><h1 align='center'>PUEO Author List</h1><a href='pueo_authors.xml'>Download as INSPIRE XML</a><hr/>" > $@
+	@echo "<!DOCTYPE html><html><head><title>PUEO Author List</title></head> <body><h1 align='center'>PUEO Author List</h1><hr/>" > $@
 	@cat $^ >> $@ 
+	@echo "<hr/><p><a href='pueo_authors.xml'>Download as INSPIRE XML</a>" >> $@
 	@echo "</body></html>" >> $@
 	@echo "Please considering committing/pushing your index.html if it differs from https://pueocollaboration.github.io/authorlist" 
 	
