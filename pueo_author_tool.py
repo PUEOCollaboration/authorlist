@@ -146,6 +146,18 @@ for i in range(len(sorted_institutes)):
 
 f_authors_txt.close()
 
+# authors.csv 
+
+f_authors_csv = open(prefix +"authors.csv","w") 
+f_authors_csv.write("First: Last: Affiliation \n")
+
+for author in authors: 
+
+  f_authors_csv.write(" ".join(author[0].split()[0:-1]) + ": " + author[0].split()[-1] + ": " + institutes[author[1][0]][0] + "\n"); 
+
+
+f_authors_txt.close()
+
 
 # authors.html 
 
