@@ -79,6 +79,7 @@ fauth = open("authors.in")
 
 lineno = 0
 
+orcids = [] 
 authors = [] 
 sorted_institutes = [] 
 sorted_short_institutes = [] 
@@ -99,6 +100,11 @@ for line in fauth.readlines():
   if line[0] == "#": 
     continue
 
+  orcid = None
+  orcid_split = line.split('<') 
+  if len(orcid_split) > 1:
+      orcid = orcid_split[1].strip() 
+  line = orcid_split[0] 
   tokens = line.split("|"); 
   if len(tokens) == 1: 
     print(" WARNING: No affiliation on line %d" % (lineno))
@@ -127,7 +133,7 @@ for line in fauth.readlines():
 
 
 
-  authors.append((author,affiliations,short_affiliations)) 
+  authors.append((author,affiliations,short_affiliations, orcid)) 
 
 
 
@@ -362,13 +368,22 @@ for author in authors:
       <foaf:name>{name}</foaf:name>
       <foaf:familyName>{familyname}</foaf:familyName>
       <cal:authorNamePaper>{name}</cal:authorNamePaper>
-      <cal:authorCollaboration collaborationid="c1"/>
-      <cal:authorAffiliations>'''.format(name=name, familyname=name.rsplit('.',1)[1].strip()))
+      <cal:authorCollaboration collaborationid="c1"/>'''.format(name=name, familyname=name.rsplit('.',1)[1].strip()))
+
+
+    f_xml.write('''
+      <cal:authorAffiliations>''')
     
     for aff in author[1]: 
         f_xml.write('\n        <cal:authorAffiliation organizationid="a{index}"/>'.format(index=xml_index_map[aff]))
     f_xml.write('''
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>''')
+    if author[3] is not None:
+        f_xml.write('''       
+      <cal:authorids>
+        <cal:authorid source="ORCID">{orcid}</cal:authorid> 
+      </cal:authorids>'''.format(orcid=author[3]))
+    f_xml.write('''
     </foaf:Person>
     ''')
 

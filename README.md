@@ -14,11 +14,11 @@ institutions.txt defines a mapping of institution id's to addresses in a |-separ
 The format of authors.txt is 
 
 
-`NAME  | INSTITUTION_ID1 | [ INSTIUTION_ID2 | etc.. ] `
+`NAME  | INSTITUTION_ID1 | [ INSTIUTION_ID2 | etc.. ] [ < orcidid ]  `
 
 e.g. 
 
-`C. Deaconu | UC`
+`C. Deaconu | UC < 0000-0002-4953-6397`
 
 
 Output is generated in several formats: 
@@ -32,10 +32,10 @@ Output is generated in several formats:
   - `pueo_authors.html` for web display, this is used to generate an index.html that we can use for gh-pages (you should commit this if it changed!) 
   - `pueo_authors.txt` for text
   - `pueoauthors.csv` for a general use csv file (used to generate an xml file using ICRC's submission tool). Entries are colon-separated and of the form `First: Last: Affiliation`
+  - `pueo_inspire.xml` inspire xml format for arxiv/inspirehep
 
 TODO:
-  - `authors.xml` format for arxiv/inspirehep
-  - ORCID support
+  - ORCID support in more formats (right not just used for inspire.xml) 
 
 
 
