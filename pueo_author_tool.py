@@ -183,7 +183,10 @@ for author in authors:
 
   if not first: 
     f_authors_html.write(", \n"); 
-  f_authors_html.write(html_escape(author[0])); 
+  if author[3] is not None: 
+      f_authors_html.write('<a href="https://orcid.org/' + author[3] +'">' + html_escape(author[0])+ '</a>'); 
+  else: 
+      f_authors_html.write(html_escape(author[0])); 
 
   f_authors_html.write("<sup>"); 
   first_aff = True
