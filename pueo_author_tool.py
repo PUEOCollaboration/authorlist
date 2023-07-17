@@ -6,6 +6,7 @@
 #  This is about as brute force as it gets :)
 
 import sys
+from datetime import date
 
 prefix = "pueo"  #prefix for all output files  (first argument overrideS) 
 collaboration = "PUEO"  # (second argument overrides) 
@@ -30,6 +31,13 @@ def tex_escape(string):
 def html_escape(string):
     escapes = ( ("&","&amp;"), ("\~n", "&ntilde;") )
 
+    escaped = string; 
+    for escape in escapes: 
+        escaped = escaped.replace(escape[0],escape[1])
+    return escaped
+
+def xml_escape(string):
+    escapes = (('\~n','ñ'),)
     escaped = string; 
     for escape in escapes: 
         escaped = escaped.replace(escape[0],escape[1])
@@ -305,6 +313,75 @@ f_sissa_authors.write("\n\n");
 f_sissa_authors.write("\\collaboration{%s Collaboration}\n\n" % (collaboration)); 
 
 f_sissa_authors.close()
+
+# inspire XML 
+
+f_xml = open(prefix + "inspire.xml","w"); 
+
+
+f_xml.write('''<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collaborationauthorlist SYSTEM "author.dtd">
+<collaborationauthorlist
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:cal="http://inspirehep.net/info/HepNames/tools/authors_xml/">
+   <cal:creationDate>{thedate}</cal:creationDate>
+   <!-- maybe replace with journal below?-->
+   <cal:publicationReference>https://github.com/PUEOCollaboration/authorlist</cal:publicationReference>
+   <cal:collaborations>
+      <cal:collaboration id="c1">
+         <foaf:name>{collab} Collaboration</foaf:name>
+      </cal:collaboration>
+   </cal:collaborations>
+   <cal:organizations>
+'''.format(thedate=date.today(), collab=collaboration))
+
+xml_index = 1
+xml_index_map = {} 
+for institute in institutes.keys():
+
+    # note, we could improve the format of institutes.in to fill this in better.. 
+    f_xml.write("""
+       <foaf:Organization id="a{index}">
+         <foaf:name>{name}</foaf:name>
+      </foaf:Organization>
+    """.format(index=xml_index, name=institutes[institute][0]))
+    xml_index_map[institute] = xml_index 
+    xml_index+=1 
+
+f_xml.write('''
+  </cal:organizations>
+  <cal:authors>
+''')
+
+# we should start gathering orcids? 
+for author in authors: 
+
+    name=xml_escape(author[0])
+    f_xml.write('''
+    <foaf:Person>
+      <foaf:name>{name}</foaf:name>
+      <foaf:familyName>{familyname}</foaf:familyName>
+      <cal:authorNamePaper>{name}</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>'''.format(name=name, familyname=name.rsplit('.',1)[1].strip()))
+    
+    for aff in author[1]: 
+        f_xml.write('\n        <cal:authorAffiliation organizationid="a{index}"/>'.format(index=xml_index_map[aff]))
+    f_xml.write('''
+      </cal:authorAffiliations>
+    </foaf:Person>
+    ''')
+
+
+
+f_xml.write('''
+  </cal:authors>
+</collaborationauthorlist>
+''')
+
+
+
+
 
 
 
