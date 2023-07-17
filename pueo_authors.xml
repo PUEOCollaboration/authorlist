@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collaborationauthorlist SYSTEM "author.dtd">
+<collaborationauthorlist
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:cal="http://inspirehep.net/info/HepNames/tools/authors_xml/">
+   <cal:creationDate>2023-07-17</cal:creationDate>
+   <!-- maybe replace with journal below?-->
+   <cal:publicationReference>https://pueo.space/authorlist</cal:publicationReference>
+   <cal:collaborations>
+      <cal:collaboration id="c1">
+         <foaf:name>PUEO Collaboration</foaf:name>
+      </cal:collaboration>
+   </cal:collaborations>
+   <cal:organizations>
+
+       <foaf:Organization id="a1">
+         <foaf:name>Dept. of Astronomy and Astrophysics, Dept. of Physics, Enrico Fermi Inst., Kavli Inst. for Cosmological Physics, Univ. of Chicago, Chicago, IL 60637.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a2">
+         <foaf:name>Dept. of Physics, Center for Cosmology and AstroParticle Physics, Ohio State Univ., Columbus, OH 43210.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a3">
+         <foaf:name>Dept. of Physics and Astronomy, Univ. of Hawaii, Manoa, HI 96822.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a4">
+         <foaf:name>Dept. of Physics, Grad. Inst. of Astrophys., Leung Center for Cosmology and Particle Astrophysics, National Taiwan University, Taipei, Taiwan.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a5">
+         <foaf:name>Dept. of Applied Physics, National Pingtung University, Pingtung City, Taiwan</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a6">
+         <foaf:name>National Nano Device Laboratories, Hsinchu 300, Taiwan.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a7">
+         <foaf:name>Dept. of Physics and Astronomy, Univ. of Kansas, Lawrence, KS 66045.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a8">
+         <foaf:name>Dept. of Physics, McDonnell Center for the Space Sciences, Washington Univ. in St. Louis, MO 63130.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a9">
+         <foaf:name>SLAC National Accelerator Laboratory, Menlo Park, CA, 94025.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a10">
+         <foaf:name>Dept. of Physics, Univ. of Delaware, Newark, DE 19716.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a11">
+         <foaf:name>Dept. of Physics and Astronomy, University College London, London, United Kingdom.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a12">
+         <foaf:name>School. of Physics and Astronomy, Queen Mary University of London, London, United Kingdom.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a13">
+         <foaf:name>Jet Propulsion Laboratory, California Institute for Technology,  Pasadena, CA 91109.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a14">
+         <foaf:name>Center for Cosmology and Particle Astrophysics, Ohio State Univ., Columbus, OH 43210.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a15">
+         <foaf:name>Pennsylvania State Physics Dept., Inst. for Gravitation and the Cosmos, University Park, PA 16802.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a16">
+         <foaf:name>Pennsylvania State Astronomy and Astrophysics Dept., University Park, PA 16802.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a17">
+         <foaf:name>Department of Physics, University of Wisconsin-Madison, Madison,  WI 53706.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a18">
+         <foaf:name>Center for Astrophysics and Space Sciences, Univ. of California, San Diego, La Jolla, CA 92093.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a19">
+         <foaf:name>Moscow Engineering Physics Institute, Moscow, Russia.</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a20">
+         <foaf:name>Instituto Galego de Fı́sica de Altas Enerxı́as (IGFAE), Universidade de Santiago de Compostela, 15782 Santiago de Compostela, Spain</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a21">
+         <foaf:name>California Polytechnic State Univ., Physics Dept., San Luis Obispo, CA 93407</foaf:name>
+      </foaf:Organization>
+    
+       <foaf:Organization id="a22">
+         <foaf:name>NASA Wallops Flight Facility, Wallops Island, VA, 23337</foaf:name>
+      </foaf:Organization>
+    
+  </cal:organizations>
+  <cal:authors>
+
+    <foaf:Person>
+      <foaf:name>Q. Abarr</foaf:name>
+      <foaf:familyName>Abarr</foaf:familyName>
+      <cal:authorNamePaper>Q. Abarr</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a10"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>P. Allison</foaf:name>
+      <foaf:familyName>Allison</foaf:familyName>
+      <cal:authorNamePaper>P. Allison</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a2"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0001-8141-2653</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>J. Alvarez-Muñiz</foaf:name>
+      <foaf:familyName>Alvarez-Muñiz</foaf:familyName>
+      <cal:authorNamePaper>J. Alvarez-Muñiz</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a20"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>J. Ammerman Yebra</foaf:name>
+      <foaf:familyName>Ammerman Yebra</foaf:familyName>
+      <cal:authorNamePaper>J. Ammerman Yebra</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a20"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>T. Anderson</foaf:name>
+      <foaf:familyName>Anderson</foaf:familyName>
+      <cal:authorNamePaper>T. Anderson</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a15"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>A. Basharina-Freshville</foaf:name>
+      <foaf:familyName>Basharina-Freshville</foaf:familyName>
+      <cal:authorNamePaper>A. Basharina-Freshville</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a11"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>J. J. Beatty</foaf:name>
+      <foaf:familyName>Beatty</foaf:familyName>
+      <cal:authorNamePaper>J. J. Beatty</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a2"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0003-0481-4952</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>D. Z. Besson</foaf:name>
+      <foaf:familyName>Besson</foaf:familyName>
+      <cal:authorNamePaper>D. Z. Besson</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a7"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0001-6733-963X</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>R. Bose</foaf:name>
+      <foaf:familyName>Bose</foaf:familyName>
+      <cal:authorNamePaper>R. Bose</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a8"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>D. Braun</foaf:name>
+      <foaf:familyName>Braun</foaf:familyName>
+      <cal:authorNamePaper>D. Braun</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a8"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>P. Chen</foaf:name>
+      <foaf:familyName>Chen</foaf:familyName>
+      <cal:authorNamePaper>P. Chen</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a4"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>Y. Chen</foaf:name>
+      <foaf:familyName>Chen</foaf:familyName>
+      <cal:authorNamePaper>Y. Chen</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a4"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>J. M. Clem</foaf:name>
+      <foaf:familyName>Clem</foaf:familyName>
+      <cal:authorNamePaper>J. M. Clem</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a10"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>T. Coakley</foaf:name>
+      <foaf:familyName>Coakley</foaf:familyName>
+      <cal:authorNamePaper>T. Coakley</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a2"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>A. Connolly</foaf:name>
+      <foaf:familyName>Connolly</foaf:familyName>
+      <cal:authorNamePaper>A. Connolly</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a2"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0003-0049-5448</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>L. Cremonesi</foaf:name>
+      <foaf:familyName>Cremonesi</foaf:familyName>
+      <cal:authorNamePaper>L. Cremonesi</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a12"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0003-0711-1056</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>A. Cummings</foaf:name>
+      <foaf:familyName>Cummings</foaf:familyName>
+      <cal:authorNamePaper>A. Cummings</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a15"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>C. Deaconu</foaf:name>
+      <foaf:familyName>Deaconu</foaf:familyName>
+      <cal:authorNamePaper>C. Deaconu</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a1"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-4953-6397</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>J. Flaherty</foaf:name>
+      <foaf:familyName>Flaherty</foaf:familyName>
+      <cal:authorNamePaper>J. Flaherty</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a2"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>P. W. Gorham</foaf:name>
+      <foaf:familyName>Gorham</foaf:familyName>
+      <cal:authorNamePaper>P. W. Gorham</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a3"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-0923-9363</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>C. Hornhuber</foaf:name>
+      <foaf:familyName>Hornhuber</foaf:familyName>
+      <cal:authorNamePaper>C. Hornhuber</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a7"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>J. Hoffman</foaf:name>
+      <foaf:familyName>Hoffman</foaf:familyName>
+      <cal:authorNamePaper>J. Hoffman</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a8"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>K. Hughes</foaf:name>
+      <foaf:familyName>Hughes</foaf:familyName>
+      <cal:authorNamePaper>K. Hughes</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a15"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-4551-9581</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>A. Hynous</foaf:name>
+      <foaf:familyName>Hynous</foaf:familyName>
+      <cal:authorNamePaper>A. Hynous</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a22"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>M. Jackson</foaf:name>
+      <foaf:familyName>Jackson</foaf:familyName>
+      <cal:authorNamePaper>M. Jackson</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a2"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>A. Jung</foaf:name>
+      <foaf:familyName>Jung</foaf:familyName>
+      <cal:authorNamePaper>A. Jung</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a3"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>Y. Ku</foaf:name>
+      <foaf:familyName>Ku</foaf:familyName>
+      <cal:authorNamePaper>Y. Ku</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a15"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>C.-Y. Kuo</foaf:name>
+      <foaf:familyName>Kuo</foaf:familyName>
+      <cal:authorNamePaper>C.-Y. Kuo</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a4"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>G. Leone</foaf:name>
+      <foaf:familyName>Leone</foaf:familyName>
+      <cal:authorNamePaper>G. Leone</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a1"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>C. Lin</foaf:name>
+      <foaf:familyName>Lin</foaf:familyName>
+      <cal:authorNamePaper>C. Lin</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a10"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>P. Linton</foaf:name>
+      <foaf:familyName>Linton</foaf:familyName>
+      <cal:authorNamePaper>P. Linton</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a2"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>T. C. Liu</foaf:name>
+      <foaf:familyName>Liu</foaf:familyName>
+      <cal:authorNamePaper>T. C. Liu</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a5"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>W. Luszczak</foaf:name>
+      <foaf:familyName>Luszczak</foaf:familyName>
+      <cal:authorNamePaper>W. Luszczak</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a2"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0003-3085-0674</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>S. Mackey</foaf:name>
+      <foaf:familyName>Mackey</foaf:familyName>
+      <cal:authorNamePaper>S. Mackey</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a1"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>Z. Martin</foaf:name>
+      <foaf:familyName>Martin</foaf:familyName>
+      <cal:authorNamePaper>Z. Martin</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a1"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>K. McBride</foaf:name>
+      <foaf:familyName>McBride</foaf:familyName>
+      <cal:authorNamePaper>K. McBride</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a2"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>C. Miki</foaf:name>
+      <foaf:familyName>Miki</foaf:familyName>
+      <cal:authorNamePaper>C. Miki</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a3"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-8968-7835</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>M. Mishra</foaf:name>
+      <foaf:familyName>Mishra</foaf:familyName>
+      <cal:authorNamePaper>M. Mishra</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a3"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>J. Nam</foaf:name>
+      <foaf:familyName>Nam</foaf:familyName>
+      <cal:authorNamePaper>J. Nam</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a4"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>R. J. Nichol</foaf:name>
+      <foaf:familyName>Nichol</foaf:familyName>
+      <cal:authorNamePaper>R. J. Nichol</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a11"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0003-0557-0443</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>A. Novikov</foaf:name>
+      <foaf:familyName>Novikov</foaf:familyName>
+      <cal:authorNamePaper>A. Novikov</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a10"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-1086-7252</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>A. Nozdrina</foaf:name>
+      <foaf:familyName>Nozdrina</foaf:familyName>
+      <cal:authorNamePaper>A. Nozdrina</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a7"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>E. Oberla</foaf:name>
+      <foaf:familyName>Oberla</foaf:familyName>
+      <cal:authorNamePaper>E. Oberla</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a1"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0001-8344-7999</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>S. Prohira</foaf:name>
+      <foaf:familyName>Prohira</foaf:familyName>
+      <cal:authorNamePaper>S. Prohira</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a7"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-8814-6607</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>R. Prechelt</foaf:name>
+      <foaf:familyName>Prechelt</foaf:familyName>
+      <cal:authorNamePaper>R. Prechelt</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a3"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-7191-7110</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>H. Pumphrey</foaf:name>
+      <foaf:familyName>Pumphrey</foaf:familyName>
+      <cal:authorNamePaper>H. Pumphrey</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a11"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>B. F. Rauch</foaf:name>
+      <foaf:familyName>Rauch</foaf:familyName>
+      <cal:authorNamePaper>B. F. Rauch</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a8"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-1452-4142</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>R. Scrandis</foaf:name>
+      <foaf:familyName>Scrandis</foaf:familyName>
+      <cal:authorNamePaper>R. Scrandis</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a1"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>D. Seckel</foaf:name>
+      <foaf:familyName>Seckel</foaf:familyName>
+      <cal:authorNamePaper>D. Seckel</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a10"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>M. F. H. Seikh</foaf:name>
+      <foaf:familyName>Seikh</foaf:familyName>
+      <cal:authorNamePaper>M. F. H. Seikh</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a7"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>J. Shiao</foaf:name>
+      <foaf:familyName>Shiao</foaf:familyName>
+      <cal:authorNamePaper>J. Shiao</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a4"/>
+        <cal:authorAffiliation organizationid="a6"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>G. Simburger</foaf:name>
+      <foaf:familyName>Simburger</foaf:familyName>
+      <cal:authorNamePaper>G. Simburger</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a8"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>G. S. Varner</foaf:name>
+      <foaf:familyName>Varner</foaf:familyName>
+      <cal:authorNamePaper>G. S. Varner</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a3"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-0302-8151</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>A. G. Vieregg</foaf:name>
+      <foaf:familyName>Vieregg</foaf:familyName>
+      <cal:authorNamePaper>A. G. Vieregg</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a1"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-4528-9886</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>S.-H. Wang</foaf:name>
+      <foaf:familyName>Wang</foaf:familyName>
+      <cal:authorNamePaper>S.-H. Wang</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a4"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-0060-7975</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>C. Welling</foaf:name>
+      <foaf:familyName>Welling</foaf:familyName>
+      <cal:authorNamePaper>C. Welling</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a1"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>S. A. Wissel</foaf:name>
+      <foaf:familyName>Wissel</foaf:familyName>
+      <cal:authorNamePaper>S. A. Wissel</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a15"/>
+        <cal:authorAffiliation organizationid="a16"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0003-0569-6978</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>C. Xie</foaf:name>
+      <foaf:familyName>Xie</foaf:familyName>
+      <cal:authorNamePaper>C. Xie</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a11"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>R. Young</foaf:name>
+      <foaf:familyName>Young</foaf:familyName>
+      <cal:authorNamePaper>R. Young</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a7"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>E. Zas</foaf:name>
+      <foaf:familyName>Zas</foaf:familyName>
+      <cal:authorNamePaper>E. Zas</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a20"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>A. Zeolla</foaf:name>
+      <foaf:familyName>Zeolla</foaf:familyName>
+      <cal:authorNamePaper>A. Zeolla</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a15"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+  </cal:authors>
+</collaborationauthorlist>

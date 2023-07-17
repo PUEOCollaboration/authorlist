@@ -335,7 +335,7 @@ f_xml.write('''<?xml version="1.0" encoding="UTF-8"?>
    xmlns:cal="http://inspirehep.net/info/HepNames/tools/authors_xml/">
    <cal:creationDate>{thedate}</cal:creationDate>
    <!-- maybe replace with journal below?-->
-   <cal:publicationReference>https://github.com/PUEOCollaboration/authorlist</cal:publicationReference>
+   <cal:publicationReference>https://pueo.space/authorlist</cal:publicationReference>
    <cal:collaborations>
       <cal:collaboration id="c1">
          <foaf:name>{collab} Collaboration</foaf:name>
