@@ -461,7 +461,8 @@ for author in authors:
     f_icrc_authors.write("\\textsuperscript{%d}" % (short_institute_numbers[aff]) ); 
     first_aff = False
   first = False
-f_icrc_authors.write("\n\\\\\n\\noindent\n"); 
+
+f_icrc_authors.write("\n\\vspace{1em}\n\\scriptsize\\\\\n\\noindent\n"); 
 first = True
 for i in range(len(sorted_short_institutes)): 
   if not first: 
