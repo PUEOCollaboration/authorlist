@@ -105,6 +105,7 @@
 
     <foaf:Person>
       <foaf:name>Q. Abarr</foaf:name>
+      <foaf:givenName>Q.</foaf:givenName>
       <foaf:familyName>Abarr</foaf:familyName>
       <cal:authorNamePaper>Q. Abarr</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -118,6 +119,7 @@
     
     <foaf:Person>
       <foaf:name>P. Allison</foaf:name>
+      <foaf:givenName>P.</foaf:givenName>
       <foaf:familyName>Allison</foaf:familyName>
       <cal:authorNamePaper>P. Allison</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -131,6 +133,7 @@
     
     <foaf:Person>
       <foaf:name>J. Alvarez-Muñiz</foaf:name>
+      <foaf:givenName>J.</foaf:givenName>
       <foaf:familyName>Alvarez-Muñiz</foaf:familyName>
       <cal:authorNamePaper>J. Alvarez-Muñiz</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -141,6 +144,7 @@
     
     <foaf:Person>
       <foaf:name>J. Ammerman Yebra</foaf:name>
+      <foaf:givenName>J.</foaf:givenName>
       <foaf:familyName>Ammerman Yebra</foaf:familyName>
       <cal:authorNamePaper>J. Ammerman Yebra</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -151,6 +155,7 @@
     
     <foaf:Person>
       <foaf:name>T. Anderson</foaf:name>
+      <foaf:givenName>T.</foaf:givenName>
       <foaf:familyName>Anderson</foaf:familyName>
       <cal:authorNamePaper>T. Anderson</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -161,6 +166,7 @@
     
     <foaf:Person>
       <foaf:name>A. Basharina-Freshville</foaf:name>
+      <foaf:givenName>A.</foaf:givenName>
       <foaf:familyName>Basharina-Freshville</foaf:familyName>
       <cal:authorNamePaper>A. Basharina-Freshville</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -171,6 +177,7 @@
     
     <foaf:Person>
       <foaf:name>J. J. Beatty</foaf:name>
+      <foaf:givenName>J. J.</foaf:givenName>
       <foaf:familyName>Beatty</foaf:familyName>
       <cal:authorNamePaper>J. J. Beatty</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -184,6 +191,7 @@
     
     <foaf:Person>
       <foaf:name>D. Z. Besson</foaf:name>
+      <foaf:givenName>D. Z.</foaf:givenName>
       <foaf:familyName>Besson</foaf:familyName>
       <cal:authorNamePaper>D. Z. Besson</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -197,6 +205,7 @@
     
     <foaf:Person>
       <foaf:name>R. Bose</foaf:name>
+      <foaf:givenName>R.</foaf:givenName>
       <foaf:familyName>Bose</foaf:familyName>
       <cal:authorNamePaper>R. Bose</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -207,6 +216,7 @@
     
     <foaf:Person>
       <foaf:name>D. Braun</foaf:name>
+      <foaf:givenName>D.</foaf:givenName>
       <foaf:familyName>Braun</foaf:familyName>
       <cal:authorNamePaper>D. Braun</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -217,6 +227,7 @@
     
     <foaf:Person>
       <foaf:name>P. Chen</foaf:name>
+      <foaf:givenName>P.</foaf:givenName>
       <foaf:familyName>Chen</foaf:familyName>
       <cal:authorNamePaper>P. Chen</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -227,6 +238,7 @@
     
     <foaf:Person>
       <foaf:name>Y. Chen</foaf:name>
+      <foaf:givenName>Y.</foaf:givenName>
       <foaf:familyName>Chen</foaf:familyName>
       <cal:authorNamePaper>Y. Chen</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -237,6 +249,7 @@
     
     <foaf:Person>
       <foaf:name>J. M. Clem</foaf:name>
+      <foaf:givenName>J. M.</foaf:givenName>
       <foaf:familyName>Clem</foaf:familyName>
       <cal:authorNamePaper>J. M. Clem</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -247,6 +260,7 @@
     
     <foaf:Person>
       <foaf:name>T. Coakley</foaf:name>
+      <foaf:givenName>T.</foaf:givenName>
       <foaf:familyName>Coakley</foaf:familyName>
       <cal:authorNamePaper>T. Coakley</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -257,6 +271,7 @@
     
     <foaf:Person>
       <foaf:name>A. Connolly</foaf:name>
+      <foaf:givenName>A.</foaf:givenName>
       <foaf:familyName>Connolly</foaf:familyName>
       <cal:authorNamePaper>A. Connolly</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -270,6 +285,7 @@
     
     <foaf:Person>
       <foaf:name>L. Cremonesi</foaf:name>
+      <foaf:givenName>L.</foaf:givenName>
       <foaf:familyName>Cremonesi</foaf:familyName>
       <cal:authorNamePaper>L. Cremonesi</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -283,6 +299,7 @@
     
     <foaf:Person>
       <foaf:name>A. Cummings</foaf:name>
+      <foaf:givenName>A.</foaf:givenName>
       <foaf:familyName>Cummings</foaf:familyName>
       <cal:authorNamePaper>A. Cummings</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -293,6 +310,7 @@
     
     <foaf:Person>
       <foaf:name>C. Deaconu</foaf:name>
+      <foaf:givenName>C.</foaf:givenName>
       <foaf:familyName>Deaconu</foaf:familyName>
       <cal:authorNamePaper>C. Deaconu</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -306,6 +324,7 @@
     
     <foaf:Person>
       <foaf:name>J. Flaherty</foaf:name>
+      <foaf:givenName>J.</foaf:givenName>
       <foaf:familyName>Flaherty</foaf:familyName>
       <cal:authorNamePaper>J. Flaherty</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -316,6 +335,7 @@
     
     <foaf:Person>
       <foaf:name>P. W. Gorham</foaf:name>
+      <foaf:givenName>P. W.</foaf:givenName>
       <foaf:familyName>Gorham</foaf:familyName>
       <cal:authorNamePaper>P. W. Gorham</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -329,6 +349,7 @@
     
     <foaf:Person>
       <foaf:name>C. Hornhuber</foaf:name>
+      <foaf:givenName>C.</foaf:givenName>
       <foaf:familyName>Hornhuber</foaf:familyName>
       <cal:authorNamePaper>C. Hornhuber</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -339,6 +360,7 @@
     
     <foaf:Person>
       <foaf:name>J. Hoffman</foaf:name>
+      <foaf:givenName>J.</foaf:givenName>
       <foaf:familyName>Hoffman</foaf:familyName>
       <cal:authorNamePaper>J. Hoffman</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -349,6 +371,7 @@
     
     <foaf:Person>
       <foaf:name>K. Hughes</foaf:name>
+      <foaf:givenName>K.</foaf:givenName>
       <foaf:familyName>Hughes</foaf:familyName>
       <cal:authorNamePaper>K. Hughes</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -362,6 +385,7 @@
     
     <foaf:Person>
       <foaf:name>A. Hynous</foaf:name>
+      <foaf:givenName>A.</foaf:givenName>
       <foaf:familyName>Hynous</foaf:familyName>
       <cal:authorNamePaper>A. Hynous</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -372,6 +396,7 @@
     
     <foaf:Person>
       <foaf:name>M. Jackson</foaf:name>
+      <foaf:givenName>M.</foaf:givenName>
       <foaf:familyName>Jackson</foaf:familyName>
       <cal:authorNamePaper>M. Jackson</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -382,6 +407,7 @@
     
     <foaf:Person>
       <foaf:name>A. Jung</foaf:name>
+      <foaf:givenName>A.</foaf:givenName>
       <foaf:familyName>Jung</foaf:familyName>
       <cal:authorNamePaper>A. Jung</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -392,6 +418,7 @@
     
     <foaf:Person>
       <foaf:name>Y. Ku</foaf:name>
+      <foaf:givenName>Y.</foaf:givenName>
       <foaf:familyName>Ku</foaf:familyName>
       <cal:authorNamePaper>Y. Ku</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -402,6 +429,7 @@
     
     <foaf:Person>
       <foaf:name>C.-Y. Kuo</foaf:name>
+      <foaf:givenName>C.-Y.</foaf:givenName>
       <foaf:familyName>Kuo</foaf:familyName>
       <cal:authorNamePaper>C.-Y. Kuo</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -412,6 +440,7 @@
     
     <foaf:Person>
       <foaf:name>G. Leone</foaf:name>
+      <foaf:givenName>G.</foaf:givenName>
       <foaf:familyName>Leone</foaf:familyName>
       <cal:authorNamePaper>G. Leone</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -422,6 +451,7 @@
     
     <foaf:Person>
       <foaf:name>C. Lin</foaf:name>
+      <foaf:givenName>C.</foaf:givenName>
       <foaf:familyName>Lin</foaf:familyName>
       <cal:authorNamePaper>C. Lin</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -432,6 +462,7 @@
     
     <foaf:Person>
       <foaf:name>P. Linton</foaf:name>
+      <foaf:givenName>P.</foaf:givenName>
       <foaf:familyName>Linton</foaf:familyName>
       <cal:authorNamePaper>P. Linton</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -442,6 +473,7 @@
     
     <foaf:Person>
       <foaf:name>T. C. Liu</foaf:name>
+      <foaf:givenName>T. C.</foaf:givenName>
       <foaf:familyName>Liu</foaf:familyName>
       <cal:authorNamePaper>T. C. Liu</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -452,6 +484,7 @@
     
     <foaf:Person>
       <foaf:name>W. Luszczak</foaf:name>
+      <foaf:givenName>W.</foaf:givenName>
       <foaf:familyName>Luszczak</foaf:familyName>
       <cal:authorNamePaper>W. Luszczak</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -465,6 +498,7 @@
     
     <foaf:Person>
       <foaf:name>S. Mackey</foaf:name>
+      <foaf:givenName>S.</foaf:givenName>
       <foaf:familyName>Mackey</foaf:familyName>
       <cal:authorNamePaper>S. Mackey</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -475,6 +509,7 @@
     
     <foaf:Person>
       <foaf:name>Z. Martin</foaf:name>
+      <foaf:givenName>Z.</foaf:givenName>
       <foaf:familyName>Martin</foaf:familyName>
       <cal:authorNamePaper>Z. Martin</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -485,6 +520,7 @@
     
     <foaf:Person>
       <foaf:name>K. McBride</foaf:name>
+      <foaf:givenName>K.</foaf:givenName>
       <foaf:familyName>McBride</foaf:familyName>
       <cal:authorNamePaper>K. McBride</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -495,6 +531,7 @@
     
     <foaf:Person>
       <foaf:name>C. Miki</foaf:name>
+      <foaf:givenName>C.</foaf:givenName>
       <foaf:familyName>Miki</foaf:familyName>
       <cal:authorNamePaper>C. Miki</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -508,6 +545,7 @@
     
     <foaf:Person>
       <foaf:name>M. Mishra</foaf:name>
+      <foaf:givenName>M.</foaf:givenName>
       <foaf:familyName>Mishra</foaf:familyName>
       <cal:authorNamePaper>M. Mishra</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -518,6 +556,7 @@
     
     <foaf:Person>
       <foaf:name>J. Nam</foaf:name>
+      <foaf:givenName>J.</foaf:givenName>
       <foaf:familyName>Nam</foaf:familyName>
       <cal:authorNamePaper>J. Nam</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -528,6 +567,7 @@
     
     <foaf:Person>
       <foaf:name>R. J. Nichol</foaf:name>
+      <foaf:givenName>R. J.</foaf:givenName>
       <foaf:familyName>Nichol</foaf:familyName>
       <cal:authorNamePaper>R. J. Nichol</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -541,6 +581,7 @@
     
     <foaf:Person>
       <foaf:name>A. Novikov</foaf:name>
+      <foaf:givenName>A.</foaf:givenName>
       <foaf:familyName>Novikov</foaf:familyName>
       <cal:authorNamePaper>A. Novikov</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -554,6 +595,7 @@
     
     <foaf:Person>
       <foaf:name>A. Nozdrina</foaf:name>
+      <foaf:givenName>A.</foaf:givenName>
       <foaf:familyName>Nozdrina</foaf:familyName>
       <cal:authorNamePaper>A. Nozdrina</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -564,6 +606,7 @@
     
     <foaf:Person>
       <foaf:name>E. Oberla</foaf:name>
+      <foaf:givenName>E.</foaf:givenName>
       <foaf:familyName>Oberla</foaf:familyName>
       <cal:authorNamePaper>E. Oberla</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -577,6 +620,7 @@
     
     <foaf:Person>
       <foaf:name>S. Prohira</foaf:name>
+      <foaf:givenName>S.</foaf:givenName>
       <foaf:familyName>Prohira</foaf:familyName>
       <cal:authorNamePaper>S. Prohira</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -590,6 +634,7 @@
     
     <foaf:Person>
       <foaf:name>R. Prechelt</foaf:name>
+      <foaf:givenName>R.</foaf:givenName>
       <foaf:familyName>Prechelt</foaf:familyName>
       <cal:authorNamePaper>R. Prechelt</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -603,6 +648,7 @@
     
     <foaf:Person>
       <foaf:name>H. Pumphrey</foaf:name>
+      <foaf:givenName>H.</foaf:givenName>
       <foaf:familyName>Pumphrey</foaf:familyName>
       <cal:authorNamePaper>H. Pumphrey</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -613,6 +659,7 @@
     
     <foaf:Person>
       <foaf:name>B. F. Rauch</foaf:name>
+      <foaf:givenName>B. F.</foaf:givenName>
       <foaf:familyName>Rauch</foaf:familyName>
       <cal:authorNamePaper>B. F. Rauch</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -626,6 +673,7 @@
     
     <foaf:Person>
       <foaf:name>R. Scrandis</foaf:name>
+      <foaf:givenName>R.</foaf:givenName>
       <foaf:familyName>Scrandis</foaf:familyName>
       <cal:authorNamePaper>R. Scrandis</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -636,6 +684,7 @@
     
     <foaf:Person>
       <foaf:name>D. Seckel</foaf:name>
+      <foaf:givenName>D.</foaf:givenName>
       <foaf:familyName>Seckel</foaf:familyName>
       <cal:authorNamePaper>D. Seckel</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -646,6 +695,7 @@
     
     <foaf:Person>
       <foaf:name>M. F. H. Seikh</foaf:name>
+      <foaf:givenName>M. F. H.</foaf:givenName>
       <foaf:familyName>Seikh</foaf:familyName>
       <cal:authorNamePaper>M. F. H. Seikh</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -656,6 +706,7 @@
     
     <foaf:Person>
       <foaf:name>J. Shiao</foaf:name>
+      <foaf:givenName>J.</foaf:givenName>
       <foaf:familyName>Shiao</foaf:familyName>
       <cal:authorNamePaper>J. Shiao</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -667,6 +718,7 @@
     
     <foaf:Person>
       <foaf:name>G. Simburger</foaf:name>
+      <foaf:givenName>G.</foaf:givenName>
       <foaf:familyName>Simburger</foaf:familyName>
       <cal:authorNamePaper>G. Simburger</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -677,6 +729,7 @@
     
     <foaf:Person>
       <foaf:name>G. S. Varner</foaf:name>
+      <foaf:givenName>G. S.</foaf:givenName>
       <foaf:familyName>Varner</foaf:familyName>
       <cal:authorNamePaper>G. S. Varner</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -690,6 +743,7 @@
     
     <foaf:Person>
       <foaf:name>A. G. Vieregg</foaf:name>
+      <foaf:givenName>A. G.</foaf:givenName>
       <foaf:familyName>Vieregg</foaf:familyName>
       <cal:authorNamePaper>A. G. Vieregg</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -703,6 +757,7 @@
     
     <foaf:Person>
       <foaf:name>S.-H. Wang</foaf:name>
+      <foaf:givenName>S.-H.</foaf:givenName>
       <foaf:familyName>Wang</foaf:familyName>
       <cal:authorNamePaper>S.-H. Wang</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -716,6 +771,7 @@
     
     <foaf:Person>
       <foaf:name>C. Welling</foaf:name>
+      <foaf:givenName>C.</foaf:givenName>
       <foaf:familyName>Welling</foaf:familyName>
       <cal:authorNamePaper>C. Welling</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -726,6 +782,7 @@
     
     <foaf:Person>
       <foaf:name>S. A. Wissel</foaf:name>
+      <foaf:givenName>S. A.</foaf:givenName>
       <foaf:familyName>Wissel</foaf:familyName>
       <cal:authorNamePaper>S. A. Wissel</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -740,6 +797,7 @@
     
     <foaf:Person>
       <foaf:name>C. Xie</foaf:name>
+      <foaf:givenName>C.</foaf:givenName>
       <foaf:familyName>Xie</foaf:familyName>
       <cal:authorNamePaper>C. Xie</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -750,6 +808,7 @@
     
     <foaf:Person>
       <foaf:name>R. Young</foaf:name>
+      <foaf:givenName>R.</foaf:givenName>
       <foaf:familyName>Young</foaf:familyName>
       <cal:authorNamePaper>R. Young</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -760,6 +819,7 @@
     
     <foaf:Person>
       <foaf:name>E. Zas</foaf:name>
+      <foaf:givenName>E.</foaf:givenName>
       <foaf:familyName>Zas</foaf:familyName>
       <cal:authorNamePaper>E. Zas</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
@@ -770,6 +830,7 @@
     
     <foaf:Person>
       <foaf:name>A. Zeolla</foaf:name>
+      <foaf:givenName>A.</foaf:givenName>
       <foaf:familyName>Zeolla</foaf:familyName>
       <cal:authorNamePaper>A. Zeolla</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>

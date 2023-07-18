@@ -365,12 +365,14 @@ f_xml.write('''
 for author in authors: 
 
     name=xml_escape(author[0])
+    split_name = name.rsplit('.',1) 
     f_xml.write('''
     <foaf:Person>
       <foaf:name>{name}</foaf:name>
+      <foaf:givenName>{givenName}</foaf:givenName>
       <foaf:familyName>{familyname}</foaf:familyName>
       <cal:authorNamePaper>{name}</cal:authorNamePaper>
-      <cal:authorCollaboration collaborationid="c1"/>'''.format(name=name, familyname=name.rsplit('.',1)[1].strip()))
+      <cal:authorCollaboration collaborationid="c1"/>'''.format(name=name, givenName=split_name[0].strip()+".", familyname=split_name[1].strip()))
 
 
     f_xml.write('''
