@@ -329,10 +329,9 @@ f_xml = open(prefix + "inspire.xml","w");
 
 
 f_xml.write('''<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE collaborationauthorlist SYSTEM "author.dtd">
+<!DOCTYPE collaborationauthorlist SYSTEM "http://inspirehep.net/info/HepNames/tools/authors_xml/author.dtd">
 <collaborationauthorlist
-   xmlns:foaf="http://xmlns.com/foaf/0.1/"
-   xmlns:cal="http://inspirehep.net/info/HepNames/tools/authors_xml/">
+   xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cal="http://inspirehep.net/info/HepNames/tools/authors_xml/">
    <cal:creationDate>{thedate}</cal:creationDate>
    <!-- maybe replace with journal below?-->
    <cal:publicationReference>https://pueo.space/authorlist</cal:publicationReference>
