@@ -110,7 +110,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a10"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-9063-2890</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
