@@ -2,7 +2,7 @@
 <!DOCTYPE collaborationauthorlist SYSTEM "http://inspirehep.net/info/HepNames/tools/authors_xml/author.dtd">
 <collaborationauthorlist
    xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cal="http://inspirehep.net/info/HepNames/tools/authors_xml/">
-   <cal:creationDate>2023-07-18</cal:creationDate>
+   <cal:creationDate>2023-12-12</cal:creationDate>
    <!-- maybe replace with journal below?-->
    <cal:publicationReference>https://pueo.space/authorlist</cal:publicationReference>
    <cal:collaborations>
@@ -497,14 +497,17 @@
     </foaf:Person>
     
     <foaf:Person>
-      <foaf:name>S. Mackey</foaf:name>
-      <foaf:givenName>S.</foaf:givenName>
+      <foaf:name>S. C. Mackey</foaf:name>
+      <foaf:givenName>S. C.</foaf:givenName>
       <foaf:familyName>Mackey</foaf:familyName>
-      <cal:authorNamePaper>S. Mackey</cal:authorNamePaper>
+      <cal:authorNamePaper>S. C. Mackey</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a1"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-1414-7236</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
