@@ -21,7 +21,7 @@ if len(sys.argv) > 2:
 
 ## may need to do more here! 
 def tex_escape(string): 
-  escapes = ( ("&","\&"), ("ı́","\\'i") )
+  escapes = ( ("&",r"\&"), ("ı́","\\'i") )
   escaped = string
   for escape in escapes:
       escaped = escaped.replace(escape[0],escape[1])
@@ -29,7 +29,7 @@ def tex_escape(string):
   return escaped
 
 def html_escape(string):
-    escapes = ( ("&","&amp;"), ("\~n", "&ntilde;") )
+    escapes = ( ("&","&amp;"), (r"\~n", "&ntilde;") )
 
     escaped = string; 
     for escape in escapes: 
@@ -37,7 +37,7 @@ def html_escape(string):
     return escaped
 
 def xml_escape(string):
-    escapes = (('\~n','ñ'),)
+    escapes = ((r'\~n','ñ'),)
     escaped = string; 
     for escape in escapes: 
         escaped = escaped.replace(escape[0],escape[1])
