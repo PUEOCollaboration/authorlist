@@ -2,7 +2,7 @@
 <!DOCTYPE collaborationauthorlist SYSTEM "http://inspirehep.net/info/HepNames/tools/authors_xml/author.dtd">
 <collaborationauthorlist
    xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cal="http://inspirehep.net/info/HepNames/tools/authors_xml/">
-   <cal:creationDate>2024-07-20</cal:creationDate>
+   <cal:creationDate>2026-01-18</cal:creationDate>
    <!-- maybe replace with journal below?-->
    <cal:publicationReference>https://pueo.space/authorlist</cal:publicationReference>
    <cal:collaborations>
@@ -165,6 +165,17 @@
     </foaf:Person>
     
     <foaf:Person>
+      <foaf:name>H. Barnett</foaf:name>
+      <foaf:givenName>H.</foaf:givenName>
+      <foaf:familyName>Barnett</foaf:familyName>
+      <cal:authorNamePaper>H. Barnett</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a11"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
       <foaf:name>A. Basharina-Freshville</foaf:name>
       <foaf:givenName>A.</foaf:givenName>
       <foaf:familyName>Basharina-Freshville</foaf:familyName>
@@ -236,6 +247,17 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a8"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>B. Chamanbahar</foaf:name>
+      <foaf:givenName>B.</foaf:givenName>
+      <foaf:familyName>Chamanbahar</foaf:familyName>
+      <cal:authorNamePaper>B. Chamanbahar</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a1"/>
       </cal:authorAffiliations>
     </foaf:Person>
     
@@ -323,6 +345,17 @@
     </foaf:Person>
     
     <foaf:Person>
+      <foaf:name>P. Dasgupta</foaf:name>
+      <foaf:givenName>P.</foaf:givenName>
+      <foaf:familyName>Dasgupta</foaf:familyName>
+      <cal:authorNamePaper>P. Dasgupta</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a2"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
       <foaf:name>C. Deaconu</foaf:name>
       <foaf:givenName>C.</foaf:givenName>
       <foaf:familyName>Deaconu</foaf:familyName>
@@ -344,6 +377,17 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a2"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>C. Godden</foaf:name>
+      <foaf:givenName>C.</foaf:givenName>
+      <foaf:familyName>Godden</foaf:familyName>
+      <cal:authorNamePaper>C. Godden</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a11"/>
       </cal:authorAffiliations>
     </foaf:Person>
     
@@ -409,17 +453,6 @@
     </foaf:Person>
     
     <foaf:Person>
-      <foaf:name>M. Jackson</foaf:name>
-      <foaf:givenName>M.</foaf:givenName>
-      <foaf:familyName>Jackson</foaf:familyName>
-      <cal:authorNamePaper>M. Jackson</cal:authorNamePaper>
-      <cal:authorCollaboration collaborationid="c1"/>
-      <cal:authorAffiliations>
-        <cal:authorAffiliation organizationid="a2"/>
-      </cal:authorAffiliations>
-    </foaf:Person>
-    
-    <foaf:Person>
       <foaf:name>A. Jung</foaf:name>
       <foaf:givenName>A.</foaf:givenName>
       <foaf:familyName>Jung</foaf:familyName>
@@ -428,6 +461,20 @@
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a3"/>
       </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>A. M. Kofman</foaf:name>
+      <foaf:givenName>A. M.</foaf:givenName>
+      <foaf:familyName>Kofman</foaf:familyName>
+      <cal:authorNamePaper>A. M. Kofman</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a1"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0001-5374-1767</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -453,28 +500,6 @@
     </foaf:Person>
     
     <foaf:Person>
-      <foaf:name>G. Leone</foaf:name>
-      <foaf:givenName>G.</foaf:givenName>
-      <foaf:familyName>Leone</foaf:familyName>
-      <cal:authorNamePaper>G. Leone</cal:authorNamePaper>
-      <cal:authorCollaboration collaborationid="c1"/>
-      <cal:authorAffiliations>
-        <cal:authorAffiliation organizationid="a1"/>
-      </cal:authorAffiliations>
-    </foaf:Person>
-    
-    <foaf:Person>
-      <foaf:name>C. Lin</foaf:name>
-      <foaf:givenName>C.</foaf:givenName>
-      <foaf:familyName>Lin</foaf:familyName>
-      <cal:authorNamePaper>C. Lin</cal:authorNamePaper>
-      <cal:authorCollaboration collaborationid="c1"/>
-      <cal:authorAffiliations>
-        <cal:authorAffiliation organizationid="a10"/>
-      </cal:authorAffiliations>
-    </foaf:Person>
-    
-    <foaf:Person>
       <foaf:name>P. Linton</foaf:name>
       <foaf:givenName>P.</foaf:givenName>
       <foaf:familyName>Linton</foaf:familyName>
@@ -482,6 +507,17 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a2"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>L. Lisalda</foaf:name>
+      <foaf:givenName>L.</foaf:givenName>
+      <foaf:familyName>Lisalda</foaf:familyName>
+      <cal:authorNamePaper>L. Lisalda</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a8"/>
       </cal:authorAffiliations>
     </foaf:Person>
     
@@ -564,17 +600,6 @@
     </foaf:Person>
     
     <foaf:Person>
-      <foaf:name>M. Mishra</foaf:name>
-      <foaf:givenName>M.</foaf:givenName>
-      <foaf:familyName>Mishra</foaf:familyName>
-      <cal:authorNamePaper>M. Mishra</cal:authorNamePaper>
-      <cal:authorCollaboration collaborationid="c1"/>
-      <cal:authorAffiliations>
-        <cal:authorAffiliation organizationid="a3"/>
-      </cal:authorAffiliations>
-    </foaf:Person>
-    
-    <foaf:Person>
       <foaf:name>J. Nam</foaf:name>
       <foaf:givenName>J.</foaf:givenName>
       <foaf:familyName>Nam</foaf:familyName>
@@ -653,20 +678,6 @@
     </foaf:Person>
     
     <foaf:Person>
-      <foaf:name>R. Prechelt</foaf:name>
-      <foaf:givenName>R.</foaf:givenName>
-      <foaf:familyName>Prechelt</foaf:familyName>
-      <cal:authorNamePaper>R. Prechelt</cal:authorNamePaper>
-      <cal:authorCollaboration collaborationid="c1"/>
-      <cal:authorAffiliations>
-        <cal:authorAffiliation organizationid="a3"/>
-      </cal:authorAffiliations>       
-      <cal:authorids>
-        <cal:authorid source="ORCID">0000-0002-7191-7110</cal:authorid> 
-      </cal:authorids>
-    </foaf:Person>
-    
-    <foaf:Person>
       <foaf:name>H. Pumphrey</foaf:name>
       <foaf:givenName>H.</foaf:givenName>
       <foaf:familyName>Pumphrey</foaf:familyName>
@@ -674,6 +685,17 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a11"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>D. Radomski</foaf:name>
+      <foaf:givenName>D.</foaf:givenName>
+      <foaf:familyName>Radomski</foaf:familyName>
+      <cal:authorNamePaper>D. Radomski</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a8"/>
       </cal:authorAffiliations>
     </foaf:Person>
     
@@ -748,20 +770,6 @@
     </foaf:Person>
     
     <foaf:Person>
-      <foaf:name>G. S. Varner</foaf:name>
-      <foaf:givenName>G. S.</foaf:givenName>
-      <foaf:familyName>Varner</foaf:familyName>
-      <cal:authorNamePaper>G. S. Varner</cal:authorNamePaper>
-      <cal:authorCollaboration collaborationid="c1"/>
-      <cal:authorAffiliations>
-        <cal:authorAffiliation organizationid="a3"/>
-      </cal:authorAffiliations>       
-      <cal:authorids>
-        <cal:authorid source="ORCID">0000-0002-0302-8151</cal:authorid> 
-      </cal:authorids>
-    </foaf:Person>
-    
-    <foaf:Person>
       <foaf:name>A. G. Vieregg</foaf:name>
       <foaf:givenName>A. G.</foaf:givenName>
       <foaf:familyName>Vieregg</foaf:familyName>
@@ -796,8 +804,22 @@
       <cal:authorNamePaper>C. Welling</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
-        <cal:authorAffiliation organizationid="a1"/>
+        <cal:authorAffiliation organizationid="a15"/>
       </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>P. Windischhofer</foaf:name>
+      <foaf:givenName>P.</foaf:givenName>
+      <foaf:familyName>Windischhofer</foaf:familyName>
+      <cal:authorNamePaper>P. Windischhofer</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a1"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0001-5038-1399</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -823,6 +845,17 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a11"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>J. Yao</foaf:name>
+      <foaf:givenName>J.</foaf:givenName>
+      <foaf:familyName>Yao</foaf:familyName>
+      <cal:authorNamePaper>J. Yao</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a2"/>
       </cal:authorAffiliations>
     </foaf:Person>
     
