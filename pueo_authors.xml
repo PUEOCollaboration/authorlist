@@ -2,7 +2,7 @@
 <!DOCTYPE collaborationauthorlist SYSTEM "http://inspirehep.net/info/HepNames/tools/authors_xml/author.dtd">
 <collaborationauthorlist
    xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cal="http://inspirehep.net/info/HepNames/tools/authors_xml/">
-   <cal:creationDate>2026-01-18</cal:creationDate>
+   <cal:creationDate>2026-04-20</cal:creationDate>
    <!-- maybe replace with journal below?-->
    <cal:publicationReference>https://pueo.space/authorlist</cal:publicationReference>
    <cal:collaborations>
@@ -110,11 +110,22 @@
       <cal:authorNamePaper>Q. Abarr</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
-        <cal:authorAffiliation organizationid="a10"/>
+        <cal:authorAffiliation organizationid="a2"/>
       </cal:authorAffiliations>       
       <cal:authorids>
         <cal:authorid source="ORCID">0000-0002-9063-2890</cal:authorid> 
       </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>J. Alfaro</foaf:name>
+      <foaf:givenName>J.</foaf:givenName>
+      <foaf:familyName>Alfaro</foaf:familyName>
+      <cal:authorNamePaper>J. Alfaro</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a15"/>
+      </cal:authorAffiliations>
     </foaf:Person>
     
     <foaf:Person>
@@ -139,18 +150,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a20"/>
-      </cal:authorAffiliations>
-    </foaf:Person>
-    
-    <foaf:Person>
-      <foaf:name>J. Ammerman Yebra</foaf:name>
-      <foaf:givenName>J.</foaf:givenName>
-      <foaf:familyName>Ammerman Yebra</foaf:familyName>
-      <cal:authorNamePaper>J. Ammerman Yebra</cal:authorNamePaper>
-      <cal:authorCollaboration collaborationid="c1"/>
-      <cal:authorAffiliations>
-        <cal:authorAffiliation organizationid="a20"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-2367-0803</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -183,7 +186,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a11"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0001-5627-7832</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -229,6 +235,18 @@
     </foaf:Person>
     
     <foaf:Person>
+      <foaf:name>M. Betts</foaf:name>
+      <foaf:givenName>M.</foaf:givenName>
+      <foaf:familyName>Betts</foaf:familyName>
+      <cal:authorNamePaper>M. Betts</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a15"/>
+        <cal:authorAffiliation organizationid="a16"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
       <foaf:name>R. Bose</foaf:name>
       <foaf:givenName>R.</foaf:givenName>
       <foaf:familyName>Bose</foaf:familyName>
@@ -269,7 +287,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a4"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0001-5251-7210</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -280,7 +301,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a4"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-8967-4911</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -291,7 +315,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a10"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0001-5681-6883</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -302,7 +329,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a2"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0009-0005-6862-1860</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -341,7 +371,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a15"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-9012-7851</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -352,7 +385,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a2"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-9559-4803</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -377,7 +413,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a2"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0003-3609-7361</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -460,7 +499,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a3"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-0880-4148</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -489,6 +531,20 @@
     </foaf:Person>
     
     <foaf:Person>
+      <foaf:name>D. Kullgren</foaf:name>
+      <foaf:givenName>D.</foaf:givenName>
+      <foaf:familyName>Kullgren</foaf:familyName>
+      <cal:authorNamePaper>D. Kullgren</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a15"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-0774-1325</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
       <foaf:name>C.-Y. Kuo</foaf:name>
       <foaf:givenName>C.-Y.</foaf:givenName>
       <foaf:familyName>Kuo</foaf:familyName>
@@ -507,7 +563,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a2"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0009-0005-6821-3306</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -518,7 +577,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a8"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-5202-1642</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -568,7 +630,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a1"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0009-0003-2075-8644</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -721,7 +786,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a1"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0009-0003-1827-6128</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -770,6 +838,20 @@
     </foaf:Person>
     
     <foaf:Person>
+      <foaf:name>J. Tutt</foaf:name>
+      <foaf:givenName>J.</foaf:givenName>
+      <foaf:familyName>Tutt</foaf:familyName>
+      <cal:authorNamePaper>J. Tutt</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a16"/>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-1613-0796</cal:authorid> 
+      </cal:authorids>
+    </foaf:Person>
+    
+    <foaf:Person>
       <foaf:name>A. G. Vieregg</foaf:name>
       <foaf:givenName>A. G.</foaf:givenName>
       <foaf:familyName>Vieregg</foaf:familyName>
@@ -798,6 +880,18 @@
     </foaf:Person>
     
     <foaf:Person>
+      <foaf:name>D. Washington</foaf:name>
+      <foaf:givenName>D.</foaf:givenName>
+      <foaf:familyName>Washington</foaf:familyName>
+      <cal:authorNamePaper>D. Washington</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a15"/>
+        <cal:authorAffiliation organizationid="a16"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
       <foaf:name>C. Welling</foaf:name>
       <foaf:givenName>C.</foaf:givenName>
       <foaf:familyName>Welling</foaf:familyName>
@@ -805,7 +899,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a15"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0003-4531-8058</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
@@ -878,7 +975,10 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a20"/>
-      </cal:authorAffiliations>
+      </cal:authorAffiliations>       
+      <cal:authorids>
+        <cal:authorid source="ORCID">0000-0002-4430-8117</cal:authorid> 
+      </cal:authorids>
     </foaf:Person>
     
     <foaf:Person>
