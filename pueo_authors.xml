@@ -2,7 +2,7 @@
 <!DOCTYPE collaborationauthorlist SYSTEM "http://inspirehep.net/info/HepNames/tools/authors_xml/author.dtd">
 <collaborationauthorlist
    xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cal="http://inspirehep.net/info/HepNames/tools/authors_xml/">
-   <cal:creationDate>2026-04-20</cal:creationDate>
+   <cal:creationDate>2026-05-04</cal:creationDate>
    <!-- maybe replace with journal below?-->
    <cal:publicationReference>https://pueo.space/authorlist</cal:publicationReference>
    <cal:collaborations>
@@ -57,7 +57,7 @@
       </foaf:Organization>
     
        <foaf:Organization id="a12">
-         <foaf:name>School. of Physics and Astronomy, Queen Mary University of London, London, United Kingdom.</foaf:name>
+         <foaf:name>Dept. of Physics, Imperial College London, London, United Kingdom.</foaf:name>
       </foaf:Organization>
     
        <foaf:Organization id="a13">
