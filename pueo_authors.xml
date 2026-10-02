@@ -2,7 +2,7 @@
 <!DOCTYPE collaborationauthorlist SYSTEM "http://inspirehep.net/info/HepNames/tools/authors_xml/author.dtd">
 <collaborationauthorlist
    xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cal="http://inspirehep.net/info/HepNames/tools/authors_xml/">
-   <cal:creationDate>2026-05-04</cal:creationDate>
+   <cal:creationDate>2026-10-02</cal:creationDate>
    <!-- maybe replace with journal below?-->
    <cal:publicationReference>https://pueo.space/authorlist</cal:publicationReference>
    <cal:collaborations>
@@ -118,6 +118,17 @@
     </foaf:Person>
     
     <foaf:Person>
+      <foaf:name>S. Agarwal</foaf:name>
+      <foaf:givenName>S.</foaf:givenName>
+      <foaf:familyName>Agarwal</foaf:familyName>
+      <cal:authorNamePaper>S. Agarwal</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a7"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
       <foaf:name>J. Alfaro</foaf:name>
       <foaf:givenName>J.</foaf:givenName>
       <foaf:familyName>Alfaro</foaf:familyName>
@@ -125,6 +136,18 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a15"/>
+        <cal:authorAffiliation organizationid="a16"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
+      <foaf:name>S. Ali</foaf:name>
+      <foaf:givenName>S.</foaf:givenName>
+      <foaf:familyName>Ali</foaf:familyName>
+      <cal:authorNamePaper>S. Ali</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a7"/>
       </cal:authorAffiliations>
     </foaf:Person>
     
@@ -164,6 +187,7 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a15"/>
+        <cal:authorAffiliation organizationid="a16"/>
       </cal:authorAffiliations>
     </foaf:Person>
     
@@ -350,6 +374,17 @@
     </foaf:Person>
     
     <foaf:Person>
+      <foaf:name>K. Couberly</foaf:name>
+      <foaf:givenName>K.</foaf:givenName>
+      <foaf:familyName>Couberly</foaf:familyName>
+      <cal:authorNamePaper>K. Couberly</cal:authorNamePaper>
+      <cal:authorCollaboration collaborationid="c1"/>
+      <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a7"/>
+      </cal:authorAffiliations>
+    </foaf:Person>
+    
+    <foaf:Person>
       <foaf:name>L. Cremonesi</foaf:name>
       <foaf:givenName>L.</foaf:givenName>
       <foaf:familyName>Cremonesi</foaf:familyName>
@@ -371,6 +406,7 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a15"/>
+        <cal:authorAffiliation organizationid="a16"/>
       </cal:authorAffiliations>       
       <cal:authorids>
         <cal:authorid source="ORCID">0000-0002-9012-7851</cal:authorid> 
@@ -527,6 +563,7 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a15"/>
+        <cal:authorAffiliation organizationid="a16"/>
       </cal:authorAffiliations>
     </foaf:Person>
     
@@ -538,6 +575,7 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a15"/>
+        <cal:authorAffiliation organizationid="a16"/>
       </cal:authorAffiliations>       
       <cal:authorids>
         <cal:authorid source="ORCID">0000-0002-0774-1325</cal:authorid> 
@@ -844,6 +882,7 @@
       <cal:authorNamePaper>J. Tutt</cal:authorNamePaper>
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
+        <cal:authorAffiliation organizationid="a15"/>
         <cal:authorAffiliation organizationid="a16"/>
       </cal:authorAffiliations>       
       <cal:authorids>
@@ -899,6 +938,7 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a15"/>
+        <cal:authorAffiliation organizationid="a16"/>
       </cal:authorAffiliations>       
       <cal:authorids>
         <cal:authorid source="ORCID">0000-0003-4531-8058</cal:authorid> 
@@ -989,6 +1029,7 @@
       <cal:authorCollaboration collaborationid="c1"/>
       <cal:authorAffiliations>
         <cal:authorAffiliation organizationid="a15"/>
+        <cal:authorAffiliation organizationid="a16"/>
       </cal:authorAffiliations>
     </foaf:Person>
     
